@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning about php, css, html and javascript
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveiraanaluisa)](https://git.io/streak-stats)
+
 <!--
 **oliveiraanaluisa/oliveiraanaluisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
