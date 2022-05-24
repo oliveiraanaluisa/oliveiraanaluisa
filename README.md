@@ -5,7 +5,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oliveiraanaluisa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a)
+![GitHub Streak](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a)
 
 
 <!--
