@@ -2,7 +2,7 @@
 🔭 I’m currently working on my Term paper and Undergraduate thesis
 
 🌱 I’m currently learning about php, css, html and javascript
-[![MasterHead](header image generated using gh-readme-header-image-gen.glitch.me)](https://github.com/oliveiraanaluisa)
+!(header image generated using gh-readme-header-image-gen.glitch.me)](https://github.com/oliveiraanaluisa)
 
 <!--
 **oliveiraanaluisa/oliveiraanaluisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
